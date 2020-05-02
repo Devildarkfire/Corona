@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">corona</string>
+    <string name="Prevention">Prevention</string>
+    <string name="Symptoms">Symptoms</string>
+</resources>
